@@ -8,7 +8,7 @@ Thank you for visiting my github😄
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leejuyong12&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{cnrrnaos53})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={cnrrnaos53})](https://solved.ac/{cnrrnaos53})
 
 
 
