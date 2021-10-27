@@ -9,7 +9,7 @@ Thank you for visiting my github😄
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leejuyong12&show_icons=true)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=cnrrnaos53)](https://solved.ac/cnrrnaos53)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnrrnaos53)](https://solved.ac/cnrrnaos53)
 
 
 
