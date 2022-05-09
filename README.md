@@ -7,7 +7,7 @@ Thank you for visiting my github😄
 - 삼성 청년 SW Academy 6기
 
 ### Portfolio
-<a href="https://decorous-earthworm-c34.notion.site/79dbd9dcb1f7416f9622f05fb9c1e2ee"><img src="https://img.shields.io/badge/Portfolio-#000000?style=flat&logo=Notion&logoColor=white"></a>
+<a href="https://decorous-earthworm-c34.notion.site/79dbd9dcb1f7416f9622f05fb9c1e2ee"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leejuyong12&show_icons=true)
 
