@@ -6,6 +6,9 @@ Thank you for visiting my github😄
 
 - 삼성 청년 SW Academy 6기
 
+### Portfolio
+<img src="https://img.shields.io/badge/Portfolio-#000000?style=flat&logo=Notion&logoColor=white">
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leejuyong12&show_icons=true)
 
 [![Solved.ac
