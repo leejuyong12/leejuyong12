@@ -9,7 +9,7 @@ Thank you for visiting my github😄
 <hr/>
 
 ### Portfolio
-<a href="https://decorous-earthworm-c34.notion.site/79dbd9dcb1f7416f9622f05fb9c1e2ee"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
+<a href="https://decorous-earthworm-c34.notion.site/1ab5bc5f70824969b176c4a5b7412013"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>
 
 <hr/>
 
