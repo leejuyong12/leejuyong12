@@ -9,6 +9,7 @@ Thank you for visiting my github😄
 <hr/>
 
 ### Portfolio
+https://www.notion.so/_-403204a2046e4f799e6832484426ac27?pvs=12
 notion 연동 정비중
 <!--<a href="https://decorous-earthworm-c34.notion.site/1ab5bc5f70824969b176c4a5b7412013"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>-->
 
