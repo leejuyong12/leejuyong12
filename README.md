@@ -9,10 +9,13 @@ Thank you for visiting my github😄
 <hr/>
 
 ### Portfolio
-[스스로 미래를 만드는 이주용입니다..pdf](https://github.com/user-attachments/files/16924779/default.pdf)
+https://www.notion.so/33d28481422a80948ff6e73eb1003c43?source=copy_link
 
 ### 컴퓨터 구조 정리
 https://www.notion.so/33d28481422a8038bfbcded116d436e8?source=copy_link
+
+### javascript 기본
+https://www.notion.so/javascript-2a828481422a80d593f7c128a9f634cf?source=copy_link
 
 <hr/>
 
