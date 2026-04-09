@@ -11,9 +11,8 @@ Thank you for visiting my github😄
 ### Portfolio
 [스스로 미래를 만드는 이주용입니다..pdf](https://github.com/user-attachments/files/16924779/default.pdf)
 
-https://www.notion.so/_-403204a2046e4f799e6832484426ac27?pvs=12
-notion 연동 정비중
-<!--<a href="https://decorous-earthworm-c34.notion.site/1ab5bc5f70824969b176c4a5b7412013"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"></a>-->
+### 컴퓨터 구조 정리
+https://www.notion.so/33d28481422a8038bfbcded116d436e8?source=copy_link
 
 <hr/>
 
