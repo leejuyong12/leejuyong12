@@ -3,7 +3,8 @@
 
 Thank you for visiting my github😄
 
-- 삼성 청년 SW Academy 6기
+- 삼성 청년 SW Academy 6기(2021.07~2022.06)
+- 하나금융티아이(2022.07 ~ ing)
 
 <hr/>
 
